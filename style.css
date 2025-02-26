@@ -1,0 +1,70 @@
+html{
+    background-color:rgb(247, 168, 196)
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: 4rem;
+    background-color: rgb(172, 23, 84);
+    font-family:  "Caveat", Serif;
+    border-radius: 27%;
+    
+}
+
+.prompt{
+    text-align: center;
+    font-family: "Caveat", Serif;
+    font-size: 2rem;
+    color: black;
+    margin-bottom: -7rem;
+}
+
+.questionmark{
+    background-color: rgb(229, 56, 136);
+    text-align: center;
+    font-family: "Caveat", Serif;
+    font-size: 10rem;
+    border-radius: 50%;
+}
+
+a{
+    color: rgb(172, 23, 84);
+    font-size: 2rem;
+
+}.answer{
+    text-align: center;
+    margin-top: -5rem;
+}
+
+.image{
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto;
+    grid-gap: 10px;
+    background-color: rgb(172, 23, 84)
+}
+
+.container{
+    background-color:rgb(247, 168, 196)
+}
+
+.take-test-again{
+    text-align: center;
+    font-family: "Caveat", Serif;
+    font-size: 2rem;
+}
+
+.container p{
+    font-size: 2rem;
+    font-family: "Caveat", Serif;
+    color: black;
+    margin-bottom: 5rem;
+}
+
